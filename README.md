@@ -1,2 +1,4 @@
 # JoinEffect
-This plugin can trigger various events when the player join.
+This plugin need the virion, AnimationHelper
+
+https://github.com/MIN0707/AnimationHelper
