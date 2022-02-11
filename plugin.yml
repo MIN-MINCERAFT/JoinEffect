@@ -1,0 +1,5 @@
+name: JoinEffect
+api: 4.0.0
+version: 1.0.0
+author: MIN
+main: MIN\JoinEffect\JoinEffect
